@@ -99,7 +99,7 @@ class _LoginScreenState  extends State<LoginScreen>{
           child: TextField(
             obscureText: true,
             style: TextStyle(
-                color: Colors.black87
+                color: Colors.blue
             ),
             decoration: InputDecoration(
               border: InputBorder.none,
